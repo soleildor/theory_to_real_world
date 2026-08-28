@@ -1,0 +1,39 @@
+krx_ticker,company,sector,status,us_ticker,listing_type,source,exchange,long_name,us_price,n_obs,inferred_ratio,ratio_residual_pct,ratio_confidence,is_adr,known_ratio,known_type,ratio_match
+009540.KS,HD Korea Shipbuilding,shipbuilding,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+086520.KS,Ecopro,battery_materials,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+010130.KS,Korea Zinc,materials,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+011040.KS,Dongwoon Anatech,display_panels,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+000660.KS,SK Hynix,semiconductors,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+006400.KS,Samsung SDI,battery,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+005930.KS,Samsung Electronics,semiconductors,FOUND,SSNLF,OTC_ORDINARY,known,,,65.2100,10.0000,0.5000,5.8800,MEDIUM,False,1.0000,OTC_ADR,False
+042660.KS,Daewoo Shipbuilding,shipbuilding,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+352820.KS,HYBE (BTS),entertainment,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+051910.KS,LG Chem,battery_chemicals,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+017670.KS,SK Telecom,telecom,FOUND,SKM,OTC_ORDINARY,known,,,35.6100,10.0000,0.5000,13.1000,LOW,False,1.0000,NYSE_ADR,False
+086790.KS,Hana Financial,banking,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+009150.KS,Samsung Electro-Mechanics,semiconductors,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+055550.KS,Shinhan Financial,banking,FOUND,SHG,OTC_ORDINARY,known,,,66.6400,10.0000,1.0000,1.5500,HIGH,False,0.5000,NYSE_ADR,False
+005380.KS,Hyundai Motor,automotive,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+207940.KS,Samsung Biologics,biotech,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+004020.KS,Hyundai Steel,steel,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+041510.KS,SM Entertainment,entertainment,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+373220.KS,LG Energy Solution,battery,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+030200.KS,KT Corp,telecom,FOUND,KT,OTC_ORDINARY,known,,,22.1900,10.0000,0.5000,7.2300,MEDIUM,False,1.0000,NYSE_ADR,False
+034220.KS,LG Display,display_panels,FOUND,LPL,OTC_ORDINARY,known,,,4.2300,10.0000,0.5000,1.0800,HIGH,False,0.5000,NYSE_ADR,True
+247540.KS,Ecopro BM,battery_materials,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+035900.KS,JYP Entertainment,entertainment,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+000100.KS,Yuhan Corp,pharma,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+240810.KS,Wonik IPS,semiconductors,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+042700.KS,Hanmi Semiconductor,semiconductors,FOUND,HNNMY,OTC_ORDINARY,known,,,3.7000,10.0000,0.1000,80.2200,LOW,False,0.5000,OTC_ADR,False
+139480.KS,E-Mart,retail,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+035720.KS,Kakao,internet,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+066570.KS,LG Electronics,consumer_electronics,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+005490.KS,POSCO Holdings,steel,FOUND,PKX,OTC_ORDINARY,known,,,63.5300,10.0000,0.2500,4.8500,MEDIUM,False,0.2500,NYSE_ADR,True
+105560.KS,KB Financial,banking,FOUND,KB,OTC_ORDINARY,known,,,107.4600,10.0000,1.0000,2.6500,MEDIUM,False,1.0000,NYSE_ADR,True
+018880.KS,Hanon Systems,auto_parts,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+035420.KS,NAVER,internet,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+068270.KS,Celltrion,biotech,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+024110.KS,Industrial Bank of Korea,banking,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+012330.KS,Hyundai Mobis,auto_parts,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+000270.KS,Kia,automotive,NO_US_LISTING,,NONE,known,,,,,,,,,,,
+004370.KS,Nongshim,food,NO_US_LISTING,,NONE,known,,,,,,,,,,,

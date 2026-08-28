@@ -1,0 +1,9 @@
+ticker,krx,p_usd,p_krw,implied,old_ratio,new_ratio,resid_pct,confidence,method,source,changed
+LPL,034220.KS,4.4900,12660,0.5259,0.5000,0.5000,5.1700,MED,price inference,"implied=0.5259, resid=+5.2%",False
+SKM,017670.KS,36.4100,93000,0.5805,0.5000,0.5000,16.1000,LOW ⚠️,price inference,"implied=0.5805, resid=+16.1%",False
+KT,030200.KS,22.6200,62100,0.5401,0.5000,0.5000,8.0200,MED,price inference,"implied=0.5401, resid=+8.0%",False
+PKX,005490.KS,63.1400,369000,0.2537,0.2500,0.2500,1.4800,HIGH,price inference,"implied=0.2537, resid=+1.5%",False
+KEP,015760.KS,14.8000,43400,0.5056,0.5000,0.5000,1.1200,HIGH,price inference,"implied=0.5056, resid=+1.1%",False
+KB,105560.KS,109.2500,158300,1.0233,1.0000,1.0000,2.3300,HIGH,price inference,"implied=1.0233, resid=+2.3%",False
+SHG,055550.KS,67.3100,98700,1.0111,1.0000,1.0000,1.1200,HIGH,price inference,"implied=1.0112, resid=+1.1%",False
+WF,316140.KS,70.4300,34150,3.0579,3.0000,3.0000,1.9300,VERIFIED,MANUAL OVERRIDE,Nasdaq listing description: each ADR represents three (3) ordinary shares,False
