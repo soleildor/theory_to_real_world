@@ -1,0 +1,2 @@
+ticker,model_run,window_label,option2_regime,option3_window,sdf_state,sdf_alpha_mult,run_date,target_date,days_to_target,category,english_name,latest_price,expected_ret_ann,expected_price_tgt,alpha_ann,alpha_pval,r_squared,low_confidence,signal,beta_mkt_rf,beta_smb,beta_hml,beta_rmw,beta_cma
+AAPL,FF5×Daily,,,,normal,1.0,2026-04-17,2029-01-20,1008,edge ai device,Apple Inc.,263.4,0.240857,477.8202,0.056356,0.4501,0.624,False,FAIRLY PRICED,1.2398,-0.1176,-0.5653,0.5211,0.5136

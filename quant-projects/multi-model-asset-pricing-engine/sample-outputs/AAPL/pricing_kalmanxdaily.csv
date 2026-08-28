@@ -1,0 +1,2 @@
+ticker,model_run,window_label,option2_regime,option3_window,sdf_state,sdf_alpha_mult,run_date,target_date,days_to_target,category,english_name,latest_price,expected_ret_ann,expected_price_tgt,alpha_ann,alpha_pval,r_squared,low_confidence,signal,beta_kalman_latest,beta_kalman_avg
+AAPL,Kalman×Daily,,,,normal,1.0,2026-04-17,2029-01-20,1008,edge ai device,Apple Inc.,263.4,0.196833,432.4836,5.490404,,,False,UNDERPRICED +,0.9593,1.1882
