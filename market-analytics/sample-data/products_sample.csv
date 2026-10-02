@@ -1,0 +1,186 @@
+asin,market,brand,bsr,bsr_category,price,pack_count,unit_price,reviews,text
+SAMPLE00000,Acne patches,Acne Brand 11,2300,Beauty & Personal Care,9.86,21,0.47,164,microneedle pdrn
+SAMPLE00001,Acne patches,Acne Brand 01,19972,Beauty & Personal Care,18.8,26,0.723,531,centella aloe zinc
+SAMPLE00002,Acne patches,Acne Brand 04,140,Beauty & Personal Care,11.47,20,0.574,686,hyaluronic acid caffeine collagen
+SAMPLE00003,Acne patches,Acne Brand 12,1234,Beauty & Personal Care,9.16,11,0.833,20388,niacinamide peptide
+SAMPLE00004,Acne patches,Acne Brand 02,65,Beauty & Personal Care,6.63,42,0.158,25,plain patch
+SAMPLE00005,Acne patches,Acne Brand 06,882,Beauty & Personal Care,8.87,34,0.261,734,centella aloe zinc
+SAMPLE00006,Acne patches,Acne Brand 03,754,Beauty & Personal Care,11.67,20,0.584,2550,hyaluronic acid caffeine collagen
+SAMPLE00007,Acne patches,Acne Brand 05,57,Beauty & Personal Care,10.86,61,0.178,59,plain patch
+SAMPLE00008,Acne patches,Acne Brand 11,103,Beauty & Personal Care,11.28,17,0.664,1768,centella aloe zinc
+SAMPLE00009,Acne patches,Acne Brand 02,6346,Beauty & Personal Care,15.51,38,0.408,8949,niacinamide peptide
+SAMPLE00010,Acne patches,Acne Brand 08,232,Beauty & Personal Care,6.81,37,0.184,192,microneedle pdrn
+SAMPLE00011,Acne patches,Acne Brand 10,37,Beauty & Personal Care,10.71,53,0.202,1248,hyaluronic acid caffeine collagen
+SAMPLE00012,Acne patches,Acne Brand 08,1932,Beauty & Personal Care,9.14,38,0.241,437,niacinamide peptide
+SAMPLE00013,Acne patches,Acne Brand 05,80,Beauty & Personal Care,15.76,71,0.222,90,hydrocolloid patch
+SAMPLE00014,Acne patches,Acne Brand 04,3452,Beauty & Personal Care,4.96,27,0.184,50,hydrocolloid patch
+SAMPLE00015,Acne patches,Acne Brand 12,15589,Beauty & Personal Care,9.65,28,0.345,55,niacinamide peptide
+SAMPLE00016,Acne patches,Acne Brand 12,53,Beauty & Personal Care,9.74,44,0.221,9782,plain patch
+SAMPLE00017,Acne patches,Acne Brand 07,2654,Beauty & Personal Care,10.95,27,0.406,107,microneedle pdrn
+SAMPLE00018,Acne patches,Acne Brand 11,14,Beauty & Personal Care,14.37,29,0.496,191,centella aloe zinc
+SAMPLE00019,Acne patches,Acne Brand 01,6896,Beauty & Personal Care,6.56,44,0.149,47,hydrocolloid patch
+SAMPLE00020,Acne patches,Acne Brand 20,45085,Beauty & Personal Care,7.67,39,0.197,9042,hydrocolloid patch
+SAMPLE00021,Acne patches,Acne Brand 18,200,Beauty & Personal Care,11.94,48,0.249,760,hydrocolloid patch
+SAMPLE00022,Acne patches,Acne Brand 28,7784,Beauty & Personal Care,13.54,19,0.713,20,plain patch
+SAMPLE00023,Acne patches,Acne Brand 25,6996,Beauty & Personal Care,12.2,21,0.581,6043,plain patch
+SAMPLE00024,Acne patches,Acne Brand 19,11,Beauty & Personal Care,8.68,33,0.263,3232,centella aloe zinc
+SAMPLE00025,Acne patches,Acne Brand 06,72,Beauty & Personal Care,4.69,59,0.079,226,salicylic acid tea tree
+SAMPLE00026,Acne patches,Acne Brand 18,38208,Beauty & Personal Care,15.02,38,0.395,15744,centella aloe zinc
+SAMPLE00027,Acne patches,Acne Brand 30,478,Beauty & Personal Care,10.71,30,0.357,10676,salicylic acid tea tree
+SAMPLE00028,Acne patches,Acne Brand 18,6402,Beauty & Personal Care,8.85,34,0.26,358,microneedle pdrn
+SAMPLE00029,Acne patches,Acne Brand 03,30643,Beauty & Personal Care,18.19,32,0.568,15624,hydrocolloid patch
+SAMPLE00030,Acne patches,Acne Brand 25,89,Beauty & Personal Care,9.65,25,0.386,1648,plain patch
+SAMPLE00031,Acne patches,Acne Brand 10,46849,Beauty & Personal Care,9.76,15,0.651,28,hyaluronic acid caffeine collagen
+SAMPLE00032,Acne patches,Acne Brand 28,64,Beauty & Personal Care,7.22,44,0.164,575,hyaluronic acid caffeine collagen
+SAMPLE00033,Acne patches,Acne Brand 20,1765,Beauty & Personal Care,8.54,12,0.712,523,niacinamide peptide
+SAMPLE00034,Acne patches,Acne Brand 20,2361,Beauty & Personal Care,8.14,47,0.173,358,hyaluronic acid caffeine collagen
+SAMPLE00035,Acne patches,Acne Brand 25,7702,Beauty & Personal Care,6.76,80,0.084,12009,microneedle pdrn
+SAMPLE00036,Acne patches,Acne Brand 27,10721,Beauty & Personal Care,9.22,26,0.355,27,plain patch
+SAMPLE00037,Acne patches,Acne Brand 01,13,Beauty & Personal Care,11.1,72,0.154,74,niacinamide peptide
+SAMPLE00038,Acne patches,Acne Brand 02,1388,Beauty & Personal Care,6.33,63,0.1,2310,salicylic acid tea tree
+SAMPLE00039,Acne patches,Acne Brand 10,12,Beauty & Personal Care,15.04,59,0.255,5890,niacinamide peptide
+SAMPLE00040,Acne patches,Acne Brand 19,3063,Beauty & Personal Care,6.68,60,0.111,26,salicylic acid tea tree
+SAMPLE00041,Acne patches,Acne Brand 29,10686,Beauty & Personal Care,19.92,18,1.107,214,niacinamide peptide
+SAMPLE00042,Acne patches,Acne Brand 04,159,Beauty & Personal Care,10.95,59,0.186,180,salicylic acid tea tree
+SAMPLE00043,Acne patches,Acne Brand 24,18190,Beauty & Personal Care,11.2,31,0.361,9685,niacinamide peptide
+SAMPLE00044,Acne patches,Acne Brand 18,56,Beauty & Personal Care,10.29,20,0.514,39,microneedle pdrn
+SAMPLE00045,Acne patches,Acne Brand 19,3148,Beauty & Personal Care,12.94,19,0.681,198,hydrocolloid patch
+SAMPLE00046,Acne patches,Acne Brand 27,5346,Beauty & Personal Care,11.89,22,0.54,24,hyaluronic acid caffeine collagen
+SAMPLE00047,Acne patches,Acne Brand 07,2876,Beauty & Personal Care,6.3,61,0.103,285,microneedle pdrn
+SAMPLE00048,Acne patches,Acne Brand 14,90,Beauty & Personal Care,9.15,56,0.163,288,centella aloe zinc
+SAMPLE00049,Acne patches,Acne Brand 20,32,Beauty & Personal Care,17.46,35,0.499,270,salicylic acid tea tree
+SAMPLE00050,Acne patches,Acne Brand 07,1092,Beauty & Personal Care,3.0,26,0.115,35,hyaluronic acid caffeine collagen
+SAMPLE00051,Acne patches,Acne Brand 18,6981,Beauty & Personal Care,7.55,70,0.108,4197,plain patch
+SAMPLE00052,Acne patches,Acne Brand 04,31,Beauty & Personal Care,11.17,58,0.193,11438,niacinamide peptide
+SAMPLE00053,Acne patches,Acne Brand 10,104,Beauty & Personal Care,13.5,23,0.587,74,plain patch
+SAMPLE00054,Acne patches,Acne Brand 27,439,Beauty & Personal Care,10.97,16,0.686,39,salicylic acid tea tree
+SAMPLE00055,Acne patches,Acne Brand 24,5597,Beauty & Personal Care,14.98,45,0.333,269,hydrocolloid patch
+SAMPLE00056,Acne patches,Acne Brand 16,17,Beauty & Personal Care,11.37,18,0.632,129,salicylic acid tea tree
+SAMPLE00057,Acne patches,Acne Brand 23,1061,Beauty & Personal Care,12.57,35,0.359,72,salicylic acid tea tree
+SAMPLE00058,Acne patches,Acne Brand 20,10490,Beauty & Personal Care,5.32,92,0.058,14389,niacinamide peptide
+SAMPLE00059,Acne patches,Acne Brand 24,15314,Beauty & Personal Care,11.5,40,0.288,73,hydrocolloid patch
+SAMPLE00060,Acne patches,Acne Brand 23,7404,Beauty & Personal Care,20.14,50,0.403,283,microneedle pdrn
+SAMPLE00061,Acne patches,Acne Brand 02,385,Beauty & Personal Care,20.88,48,0.435,302,niacinamide peptide
+SAMPLE00062,Acne patches,Acne Brand 22,1176,Beauty & Personal Care,10.71,60,0.179,12534,hydrocolloid patch
+SAMPLE00063,Acne patches,Acne Brand 05,291,Beauty & Personal Care,11.49,13,0.884,56,plain patch
+SAMPLE00064,Acne patches,Acne Brand 25,4927,Beauty & Personal Care,8.08,50,0.162,20233,centella aloe zinc
+SAMPLE00065,Acne patches,Acne Brand 06,28,Beauty & Personal Care,8.65,40,0.216,3838,salicylic acid tea tree
+SAMPLE00066,Acne patches,Acne Brand 28,52,Beauty & Personal Care,24.63,30,0.821,32,niacinamide peptide
+SAMPLE00067,Acne patches,Acne Brand 01,615,Beauty & Personal Care,6.68,18,0.371,3097,salicylic acid tea tree
+SAMPLE00068,Acne patches,Acne Brand 02,524,Beauty & Personal Care,20.24,42,0.482,12262,plain patch
+SAMPLE00069,Acne patches,Acne Brand 12,85,Beauty & Personal Care,8.68,15,0.579,680,hydrocolloid patch
+SAMPLE00070,Acne patches,Acne Brand 06,29,Beauty & Personal Care,7.55,21,0.36,72,salicylic acid tea tree
+SAMPLE00071,Acne patches,Acne Brand 08,3395,Beauty & Personal Care,11.99,43,0.279,744,plain patch
+SAMPLE00072,Acne patches,Acne Brand 17,2370,Beauty & Personal Care,10.64,48,0.222,9082,niacinamide peptide
+SAMPLE00073,Acne patches,Acne Brand 05,48,Beauty & Personal Care,5.6,45,0.124,14634,salicylic acid tea tree
+SAMPLE00074,Acne patches,Acne Brand 30,74,Beauty & Personal Care,14.59,32,0.456,653,microneedle pdrn
+SAMPLE00075,Acne patches,Acne Brand 02,28631,Beauty & Personal Care,14.19,139,0.102,31,plain patch
+SAMPLE00076,Acne patches,Acne Brand 14,78,Beauty & Personal Care,10.76,32,0.336,6653,centella aloe zinc
+SAMPLE00077,Acne patches,Acne Brand 22,7506,Beauty & Personal Care,17.16,68,0.252,3462,plain patch
+SAMPLE00078,Acne patches,Acne Brand 06,138,Beauty & Personal Care,10.43,28,0.372,12533,hyaluronic acid caffeine collagen
+SAMPLE00079,Acne patches,Acne Brand 10,1796,Beauty & Personal Care,15.11,32,0.472,736,centella aloe zinc
+SAMPLE00080,Eye patches,Eye Brand 12,22,Beauty & Personal Care,13.88,33,0.421,144,salicylic acid tea tree
+SAMPLE00081,Eye patches,Eye Brand 09,10698,Beauty & Personal Care,20.67,14,1.476,417,niacinamide peptide
+SAMPLE00082,Eye patches,Eye Brand 09,370,Beauty & Personal Care,8.89,67,0.133,2181,hydrocolloid patch
+SAMPLE00083,Eye patches,Eye Brand 07,62,Beauty & Personal Care,16.88,15,1.125,3277,hydrocolloid patch
+SAMPLE00084,Eye patches,Eye Brand 12,11,Beauty & Personal Care,14.67,33,0.445,3112,microneedle pdrn
+SAMPLE00085,Eye patches,Eye Brand 09,949,Beauty & Personal Care,11.52,57,0.202,999,centella aloe zinc
+SAMPLE00086,Eye patches,Eye Brand 01,33240,Beauty & Personal Care,15.81,29,0.545,948,microneedle pdrn
+SAMPLE00087,Eye patches,Eye Brand 08,19,Beauty & Personal Care,12.6,13,0.969,9422,plain patch
+SAMPLE00088,Eye patches,Eye Brand 06,56,Beauty & Personal Care,19.03,20,0.952,967,plain patch
+SAMPLE00089,Eye patches,Eye Brand 06,11198,Beauty & Personal Care,34.6,18,1.922,2313,salicylic acid tea tree
+SAMPLE00090,Eye patches,Eye Brand 05,2660,Beauty & Personal Care,24.03,27,0.89,3677,hyaluronic acid caffeine collagen
+SAMPLE00091,Eye patches,Eye Brand 06,274,Beauty & Personal Care,18.24,30,0.608,214,hyaluronic acid caffeine collagen
+SAMPLE00092,Eye patches,Eye Brand 05,13300,Beauty & Personal Care,9.54,44,0.217,459,plain patch
+SAMPLE00093,Eye patches,Eye Brand 01,4936,Beauty & Personal Care,19.65,58,0.339,1160,centella aloe zinc
+SAMPLE00094,Eye patches,Eye Brand 08,1281,Beauty & Personal Care,12.09,37,0.327,381,plain patch
+SAMPLE00095,Eye patches,Eye Brand 04,49,Beauty & Personal Care,14.04,38,0.369,21881,hyaluronic acid caffeine collagen
+SAMPLE00096,Eye patches,Eye Brand 06,215,Beauty & Personal Care,9.12,91,0.1,15295,hyaluronic acid caffeine collagen
+SAMPLE00097,Eye patches,Eye Brand 05,22859,Beauty & Personal Care,20.26,30,0.675,637,plain patch
+SAMPLE00098,Eye patches,Eye Brand 01,3891,Beauty & Personal Care,12.68,13,0.975,380,hydrocolloid patch
+SAMPLE00099,Eye patches,Eye Brand 10,13443,Beauty & Personal Care,10.89,24,0.454,495,niacinamide peptide
+SAMPLE00100,Eye patches,Eye Brand 17,257,Beauty & Personal Care,12.36,56,0.221,2823,microneedle pdrn
+SAMPLE00101,Eye patches,Eye Brand 02,8149,Beauty & Personal Care,12.85,68,0.189,453,niacinamide peptide
+SAMPLE00102,Eye patches,Eye Brand 21,17,Beauty & Personal Care,8.91,23,0.387,280,salicylic acid tea tree
+SAMPLE00103,Eye patches,Eye Brand 08,2554,Beauty & Personal Care,12.13,28,0.433,1664,centella aloe zinc
+SAMPLE00104,Eye patches,Eye Brand 29,59,Beauty & Personal Care,17.99,18,0.999,120,hydrocolloid patch
+SAMPLE00105,Eye patches,Eye Brand 13,18,Beauty & Personal Care,18.56,16,1.16,78,microneedle pdrn
+SAMPLE00106,Eye patches,Eye Brand 10,33,Beauty & Personal Care,17.66,19,0.929,12865,hydrocolloid patch
+SAMPLE00107,Eye patches,Eye Brand 19,3019,Beauty & Personal Care,20.86,29,0.719,222,microneedle pdrn
+SAMPLE00108,Eye patches,Eye Brand 14,94,Beauty & Personal Care,14.85,25,0.594,441,centella aloe zinc
+SAMPLE00109,Eye patches,Eye Brand 05,2614,Beauty & Personal Care,17.84,23,0.776,145,niacinamide peptide
+SAMPLE00110,Eye patches,Eye Brand 01,43001,Beauty & Personal Care,15.23,31,0.491,555,salicylic acid tea tree
+SAMPLE00111,Eye patches,Eye Brand 14,11,Beauty & Personal Care,22.54,27,0.835,5151,hydrocolloid patch
+SAMPLE00112,Eye patches,Eye Brand 19,50,Beauty & Personal Care,22.84,34,0.672,6111,niacinamide peptide
+SAMPLE00113,Eye patches,Eye Brand 28,41,Beauty & Personal Care,17.13,43,0.398,28,microneedle pdrn
+SAMPLE00114,Eye patches,Eye Brand 19,3207,Beauty & Personal Care,23.56,60,0.393,15890,centella aloe zinc
+SAMPLE00115,Eye patches,Eye Brand 04,22294,Beauty & Personal Care,27.7,27,1.026,6745,salicylic acid tea tree
+SAMPLE00116,Eye patches,Eye Brand 30,28666,Beauty & Personal Care,11.31,20,0.566,2318,centella aloe zinc
+SAMPLE00117,Eye patches,Eye Brand 29,1426,Beauty & Personal Care,38.23,78,0.49,727,salicylic acid tea tree
+SAMPLE00118,Eye patches,Eye Brand 22,12,Beauty & Personal Care,14.39,38,0.379,7788,hyaluronic acid caffeine collagen
+SAMPLE00119,Eye patches,Eye Brand 11,7153,Beauty & Personal Care,13.95,29,0.481,72,hydrocolloid patch
+SAMPLE00120,Eye patches,Eye Brand 14,141,Beauty & Personal Care,22.27,24,0.928,10830,centella aloe zinc
+SAMPLE00121,Eye patches,Eye Brand 26,3723,Beauty & Personal Care,23.97,29,0.827,4958,hyaluronic acid caffeine collagen
+SAMPLE00122,Eye patches,Eye Brand 05,85,Beauty & Personal Care,14.95,17,0.879,88,hydrocolloid patch
+SAMPLE00123,Eye patches,Eye Brand 29,103,Beauty & Personal Care,22.13,20,1.106,49,plain patch
+SAMPLE00124,Eye patches,Eye Brand 04,12004,Beauty & Personal Care,18.08,41,0.441,944,niacinamide peptide
+SAMPLE00125,Eye patches,Eye Brand 03,15800,Beauty & Personal Care,21.53,35,0.615,1417,niacinamide peptide
+SAMPLE00126,Eye patches,Eye Brand 19,152,Beauty & Personal Care,27.3,97,0.281,156,microneedle pdrn
+SAMPLE00127,Eye patches,Eye Brand 20,7292,Beauty & Personal Care,32.52,29,1.121,3211,centella aloe zinc
+SAMPLE00128,Eye patches,Eye Brand 12,4353,Beauty & Personal Care,17.55,48,0.366,2966,salicylic acid tea tree
+SAMPLE00129,Eye patches,Eye Brand 22,59,Beauty & Personal Care,21.74,20,1.087,8260,centella aloe zinc
+SAMPLE00130,Eye patches,Eye Brand 09,493,Beauty & Personal Care,23.14,22,1.052,93,hyaluronic acid caffeine collagen
+SAMPLE00131,Eye patches,Eye Brand 06,106,Beauty & Personal Care,13.19,17,0.776,90,salicylic acid tea tree
+SAMPLE00132,Eye patches,Eye Brand 28,6183,Beauty & Personal Care,21.08,17,1.24,697,centella aloe zinc
+SAMPLE00133,Eye patches,Eye Brand 04,19,Beauty & Personal Care,20.7,51,0.406,5609,hyaluronic acid caffeine collagen
+SAMPLE00134,Eye patches,Eye Brand 18,18,Beauty & Personal Care,46.52,99,0.47,20,plain patch
+SAMPLE00135,Eye patches,Eye Brand 12,936,Beauty & Personal Care,18.08,16,1.13,128,salicylic acid tea tree
+SAMPLE00136,Eye patches,Eye Brand 15,11757,Beauty & Personal Care,9.83,12,0.819,188,niacinamide peptide
+SAMPLE00137,Eye patches,Eye Brand 12,14,Beauty & Personal Care,20.69,43,0.481,1069,plain patch
+SAMPLE00138,Eye patches,Eye Brand 18,40064,Beauty & Personal Care,16.44,16,1.028,1094,microneedle pdrn
+SAMPLE00139,Eye patches,Eye Brand 18,6952,Beauty & Personal Care,16.5,26,0.635,80,plain patch
+SAMPLE00140,Eye patches,Eye Brand 15,1591,Beauty & Personal Care,16.33,137,0.119,6116,plain patch
+SAMPLE00141,Eye patches,Eye Brand 17,32,Beauty & Personal Care,43.27,26,1.664,132,plain patch
+SAMPLE00142,Eye patches,Eye Brand 17,255,Beauty & Personal Care,24.85,22,1.13,42,microneedle pdrn
+SAMPLE00143,Eye patches,Eye Brand 28,12305,Beauty & Personal Care,24.98,8,3.122,7662,microneedle pdrn
+SAMPLE00144,Eye patches,Eye Brand 02,27490,Beauty & Personal Care,24.96,24,1.04,537,microneedle pdrn
+SAMPLE00145,Eye patches,Eye Brand 03,30332,Beauty & Personal Care,16.65,20,0.832,787,centella aloe zinc
+SAMPLE00146,Eye patches,Eye Brand 14,6556,Beauty & Personal Care,21.03,58,0.363,19431,niacinamide peptide
+SAMPLE00147,Eye patches,Eye Brand 04,6860,Beauty & Personal Care,13.29,14,0.949,4768,plain patch
+SAMPLE00148,Eye patches,Eye Brand 27,11,Beauty & Personal Care,21.79,12,1.816,2063,niacinamide peptide
+SAMPLE00149,Eye patches,Eye Brand 05,829,Beauty & Personal Care,18.45,21,0.879,28,niacinamide peptide
+SAMPLE00150,Eye patches,Eye Brand 04,66,Beauty & Personal Care,39.75,98,0.406,1221,centella aloe zinc
+SAMPLE00151,Eye patches,Eye Brand 02,115,Beauty & Personal Care,33.84,29,1.167,120,hyaluronic acid caffeine collagen
+SAMPLE00152,Eye patches,Eye Brand 23,338,Beauty & Personal Care,15.96,28,0.57,12412,hyaluronic acid caffeine collagen
+SAMPLE00153,Eye patches,Eye Brand 23,149,Beauty & Personal Care,18.48,25,0.739,430,hydrocolloid patch
+SAMPLE00154,Eye patches,Eye Brand 29,1889,Beauty & Personal Care,17.49,52,0.336,560,plain patch
+SAMPLE00155,Eye patches,Eye Brand 30,31,Beauty & Personal Care,14.49,31,0.467,11387,hyaluronic acid caffeine collagen
+SAMPLE00156,Eye patches,Eye Brand 03,25,Beauty & Personal Care,14.53,21,0.692,25,microneedle pdrn
+SAMPLE00157,Eye patches,Eye Brand 19,29453,Beauty & Personal Care,10.12,47,0.215,498,hyaluronic acid caffeine collagen
+SAMPLE00158,Eye patches,Eye Brand 23,1352,Beauty & Personal Care,13.15,8,1.644,60,niacinamide peptide
+SAMPLE00159,Eye patches,Eye Brand 13,11779,Beauty & Personal Care,22.04,36,0.612,20826,hyaluronic acid caffeine collagen
+SAMPLE00160,Wrinkle patches,Wrinkle Brand 06,101,Beauty & Personal Care,14.04,23,0.61,273,salicylic acid tea tree
+SAMPLE00161,Wrinkle patches,Wrinkle Brand 05,35666,Beauty & Personal Care,8.61,60,0.144,299,microneedle pdrn
+SAMPLE00162,Wrinkle patches,Wrinkle Brand 02,432,Beauty & Personal Care,24.46,40,0.612,1044,plain patch
+SAMPLE00163,Wrinkle patches,Wrinkle Brand 10,3455,Beauty & Personal Care,22.38,16,1.399,140,hyaluronic acid caffeine collagen
+SAMPLE00164,Wrinkle patches,Wrinkle Brand 10,141,Beauty & Personal Care,11.03,106,0.104,1726,niacinamide peptide
+SAMPLE00165,Wrinkle patches,Wrinkle Brand 02,51,Beauty & Personal Care,16.98,37,0.459,159,salicylic acid tea tree
+SAMPLE00166,Wrinkle patches,Wrinkle Brand 01,2530,Beauty & Personal Care,23.69,25,0.948,118,microneedle pdrn
+SAMPLE00167,Wrinkle patches,Wrinkle Brand 08,207,Beauty & Personal Care,12.7,30,0.423,2824,centella aloe zinc
+SAMPLE00168,Wrinkle patches,Wrinkle Brand 12,20,Beauty & Personal Care,15.65,39,0.401,81,niacinamide peptide
+SAMPLE00169,Wrinkle patches,Wrinkle Brand 04,55723,Beauty & Personal Care,8.2,16,0.512,15529,microneedle pdrn
+SAMPLE00170,Wrinkle patches,Wrinkle Brand 07,14,Beauty & Personal Care,9.35,30,0.312,210,plain patch
+SAMPLE00171,Wrinkle patches,Wrinkle Brand 01,173,Beauty & Personal Care,13.32,58,0.23,34,centella aloe zinc
+SAMPLE00172,Wrinkle patches,Wrinkle Brand 04,58,Beauty & Personal Care,33.91,45,0.754,13206,plain patch
+SAMPLE00173,Wrinkle patches,Wrinkle Brand 03,441,Beauty & Personal Care,14.94,36,0.415,111,centella aloe zinc
+SAMPLE00174,Wrinkle patches,Wrinkle Brand 11,42644,Beauty & Personal Care,18.37,48,0.383,186,microneedle pdrn
+SAMPLE00175,Wrinkle patches,Wrinkle Brand 03,13,Beauty & Personal Care,16.99,40,0.425,1690,plain patch
+SAMPLE00176,Wrinkle patches,Wrinkle Brand 02,24,Beauty & Personal Care,26.3,20,1.315,206,salicylic acid tea tree
+SAMPLE00177,Wrinkle patches,Wrinkle Brand 10,21,Beauty & Personal Care,21.03,43,0.489,1518,microneedle pdrn
+SAMPLE00178,Wrinkle patches,Wrinkle Brand 04,24,Beauty & Personal Care,22.84,62,0.368,6123,centella aloe zinc
+SAMPLE00179,Wrinkle patches,Wrinkle Brand 07,2635,Beauty & Personal Care,19.94,36,0.554,32,microneedle pdrn
+SAMPLE00180,Wrinkle patches,Wrinkle Brand 21,31,Beauty & Personal Care,12.91,34,0.38,476,hyaluronic acid caffeine collagen
+SAMPLE00181,Wrinkle patches,Wrinkle Brand 02,47,Beauty & Personal Care,12.43,79,0.157,110,microneedle pdrn
+SAMPLE00182,Wrinkle patches,Wrinkle Brand 13,18714,Beauty & Personal Care,25.55,43,0.594,21,centella aloe zinc
+SAMPLE00183,Wrinkle patches,Wrinkle Brand 06,471,Beauty & Personal Care,28.98,38,0.763,8795,plain patch
+SAMPLE00184,Wrinkle patches,Wrinkle Brand 10,24416,Beauty & Personal Care,21.23,62,0.342,684,centella aloe zinc
